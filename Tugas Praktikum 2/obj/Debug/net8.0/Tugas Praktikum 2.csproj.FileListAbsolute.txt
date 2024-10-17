@@ -1,0 +1,15 @@
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\bin\Debug\net8.0\Tugas Praktikum 2.exe
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\bin\Debug\net8.0\Tugas Praktikum 2.deps.json
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\bin\Debug\net8.0\Tugas Praktikum 2.runtimeconfig.json
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\bin\Debug\net8.0\Tugas Praktikum 2.dll
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\bin\Debug\net8.0\Tugas Praktikum 2.pdb
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.AssemblyInfoInputs.cache
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.AssemblyInfo.cs
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.csproj.CoreCompileInputs.cache
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.dll
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\refint\Tugas Praktikum 2.dll
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.pdb
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.genruntimeconfig.cache
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\ref\Tugas Praktikum 2.dll
+E:\.KULIAH ALMAS\PBO\Tugas Praktikum 2\Tugas Praktikum 2\obj\Debug\net8.0\Tugas Praktikum 2.sourcelink.json
